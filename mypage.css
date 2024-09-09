@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: #a1cca5;
+    margin-bottom: 70px;
+}
+hr{
+    height: 2px;
+    background-color: #463f3a;
+}
+.header{
+    text-align: center;
+    
+}
+.pill{
+    display: inline-block;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 5px;
+    background-color: white;
+    color:#111d13;
+    font-weight: 600;
+    
+}
+ul{
+    list-style-type:square;
+    font-weight: 500;
+}
+img{
+    width: 30%;
+    height: 30%;
+    border: 3px solid black;
+}
+li{
+    margin: 20px;
+}
+h2{
+    margin-bottom: 40px;
+}
+.para{
+    font-weight: 500;
+}
+.content{
+    color: black;
+}
+a{
+    color: black;
+}
